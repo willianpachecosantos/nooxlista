@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://files.cercomp.ufg.br/weby/up/296/o/20131118121929.png" group-title="Atenção",Atenção!
+https://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51S10JcGd4L.png" group-title="Atenção1",Não deixe a lista acabar.
+https://0.0.0.1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openclipart.org/image/2400px/svg_to_png/191454/donate-button.png" group-title="Atenção2",Faça uma doação.
+https://0.0.0.2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2020/02/pix-bc-logo.png" group-title="Atenção3",Via pix(Email).
+https://0.0.0.3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://comoinvestirdinheiro.com/wp-content/uploads/2020/09/logo-banco-inter-2048-750x750.jpg" group-title="Atenção4",williannoox@gmail.com
+https://0.0.0.4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://agencia-assets.s3.us-east-2.amazonaws.com/blogs/miniatures/min25.jpg" group-title="Atenção5",Qualquer valor.
+https://0.0.0.5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.brightontoymuseum.co.uk/w/images/Lego_Creator_logo.jpg" group-title="Atenção6",Valorize o criador.
+https://0.0.0.6
 #EXTINF:-1 tvg-id="BBB22 - CAM 1" tvg-name="BBB PRINCIPAL" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB PRINCIPAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://bolos.cteam.me:80/Novoman/Tvnet123456789/895014
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",3 Palavrinhas 24hs
